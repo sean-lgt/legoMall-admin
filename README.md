@@ -1,5 +1,8 @@
-# vue3.0+vite+element-plus
-
+#   乐购商城
+##  简单介绍
+前端参考开源项目：https://github.com/newbee-ltd/vue3-admin
+服务端API则使：koa2+MySQL搭建
+##  参考开源项目使用vue3.0+vite+element-plus
 ##  项目搭建
 
 ### 1、使用 npm 进行安装
